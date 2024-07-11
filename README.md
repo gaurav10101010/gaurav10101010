@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaurav10101010
-- 👀 I’m interested in website development
-- 🌱 I’m currently learning html,css
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning python,ai,ml
 - 💞️ I’m looking to collaborate on development
 - 📫 ping me at gauravasudani38@gmail.com
 
